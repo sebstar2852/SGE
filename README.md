@@ -1,5 +1,5 @@
 # SGE
-SGE is a game engine for 2d games
+SGE is a game engine for 2d games,
 SGE stands for sebstar game engine
 
 # My Accounts
